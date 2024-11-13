@@ -1,0 +1,15 @@
+
+
+table         { border: 0px solid black;
+                border-collapse: separate;
+	            border-spacing:20px;
+    		    min-width: 600px;}
+
+td            { border: 0px solid black;}
+
+h1	          { font-size:16;}
+
+h2	          { font-size:14;}
+
+p	          { font-size:12;}
+
